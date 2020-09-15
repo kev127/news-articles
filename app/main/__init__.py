@@ -1,5 +1,3 @@
-from flask import flask
-
 from flask import Flask
 
 # Initializing application
